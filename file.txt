@@ -1,2 +1,4 @@
 My first line in project
 Paris is a capital of France
+Washington is a capital of USA
+Minsk is a capital of Belarus
